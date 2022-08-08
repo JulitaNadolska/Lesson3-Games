@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-The project is two games consisting of:
+The project: two games:
 - Guessing Game: a guessing game where the program draws a number and the user tries to guess it.
 - Table Game: the game creates a set of characters based on the numbers given by the user, and then calculates the arithmetic average and displays which number has the maximum value
 	
